@@ -1,0 +1,46 @@
+
+.outer{
+     box-sizing: content-box;
+     max-width: 300px;
+     padding: 15px;
+     background: white;
+     box-shadow: 20px 20px 10px grey;
+     display: block;
+     border-color: #AFEEEE;
+     border-style: outset;
+     border-width: 1px;
+     word-wrap: break-word;
+      }
+
+.inner{
+       margin: 10px;
+       padding: 7px;
+       border-width: 0.1px;
+       border-color: #AFEEEE;
+       border-style: double;
+       font-size: 17px
+      }
+
+img {
+      padding: 1px;
+      width: 300px;
+      height: 200px;
+    }
+
+span{
+     font-weight: bold;
+     text-align: left;
+     }
+
+ul{
+    padding: 1px;
+    list-style-position: inside;
+    list-style-type: none;
+    text-align: left;
+  }
+
+h3 {
+    padding: 1px;
+    font-size: 30px
+
+   }
